@@ -65,6 +65,12 @@ public class Tests {
         Thread send = new testnetwork(1);
         send.start();
         */
+        
+        //testjmx
+        /*
+        testjmx test = new testjmx();
+        test.test();
+        */
     }
     
 }
